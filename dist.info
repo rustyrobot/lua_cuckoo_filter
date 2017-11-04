@@ -1,0 +1,12 @@
+name = "cuckoo_filter"
+version = "0.1.0"
+
+desc = "Cuckoo filter for Lua"
+author = "Mike Trinkala"
+license = "MPL 2.0"
+url = "https://github.com/mozilla-services/lua_bloom_filter"
+maintainer = "Mike Trinkala"
+
+depends = {
+	"lua >= 5.1"
+}
